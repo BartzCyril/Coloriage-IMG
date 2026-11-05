@@ -1,4 +1,9 @@
-# Coloriage d'images
+# Coloriage automatique d'images en C
+
+> Programme en C qui colorie automatiquement une image en noir et blanc : chaque zone blanche fermée reçoit sa propre couleur, grâce à la structure de données Union-Find, implémentée de deux façons puis comparée.
+
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Make](https://img.shields.io/badge/Makefile-6D00CC?logo=gnu&logoColor=white)
 
 ## Principe
 
